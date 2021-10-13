@@ -9,4 +9,5 @@
 9. git branch [branch name]   ##( create a new branch at the current commit)
 10. git log                   ##(show all commits in the current branch’s history)  
 11. git checkout branch name  ## (switch to another branch and check it out into your working directory)
+12. git merge branch name                ## (merge the specified branch’s history into the current one)
 ##################             git add . && git commit -m "commanda add" && git push origin main         ###################333333
