@@ -1,0 +1,7 @@
+1. git --version ## (this will give version of git)
+2. git --help    ## (it will show you all commands)
+3. git clone url ## (for clonning a repo )
+4. git add .     ## (to add all the changes to the repo)
+5. git commit -m " " ## (to add comment to the changes files)
+6. git status        ## (to check the status of repo)
+7. git push origin main ## (to push your code into github)
