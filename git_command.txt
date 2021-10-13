@@ -8,4 +8,5 @@
 8. git branch           ##( tio chekc all the branches ) 
 9. git branch [branch name]   ##( create a new branch at the current commit)
 10. git log                   ##(show all commits in the current branch’s history)  
-
+11. git checkout branch name  ## (switch to another branch and check it out into your working directory)
+##################             git add . && git commit -m "commanda add" && git push origin main         ###################333333
